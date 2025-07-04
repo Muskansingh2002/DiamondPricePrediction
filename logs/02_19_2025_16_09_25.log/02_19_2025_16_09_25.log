@@ -1,0 +1,27 @@
+[ 2025-02-19 16:09:28,657 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-02-19 16:09:28,693 ] 97 werkzeug - INFO -  * Debugger PIN: 557-671-124
+[ 2025-02-19 16:12:04,932 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Feb/2025 16:12:04] "GET / HTTP/1.1" 200 -
+[ 2025-02-19 16:12:04,994 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Feb/2025 16:12:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2025-02-19 16:12:40,564 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Feb/2025 16:12:40] "GET /predict HTTP/1.1" 200 -
+[ 2025-02-19 16:13:19,855 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Feb/2025 16:13:19] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2025-02-19 16:13:20,034 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Feb/2025 16:13:20] "GET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2025-02-19 16:13:20,078 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Feb/2025 16:13:20] "GET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2025-02-19 16:13:20,189 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Feb/2025 16:13:20] "GET /predict?__debugger__=yes&cmd=resource&f=console.png&s=1hGTjYXEEjym6GfVTXXy HTTP/1.1" 200 -
+[ 2025-02-19 16:13:20,201 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Feb/2025 16:13:20] "GET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2025-02-19 16:13:47,633 ] 66 root - INFO - Dataframe Gathered
+[ 2025-02-19 16:13:47,634 ] 54 root - INFO - Exception Occured in load_object function utils
+[ 2025-02-19 16:13:47,634 ] 27 root - INFO - Exception occured in prediction
+[ 2025-02-19 16:13:47,663 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Feb/2025 16:13:47] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2025-02-19 16:13:47,696 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Feb/2025 16:13:47] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2025-02-19 16:13:47,700 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Feb/2025 16:13:47] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2025-02-19 16:13:47,745 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Feb/2025 16:13:47] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png&s=1hGTjYXEEjym6GfVTXXy HTTP/1.1[0m" 304 -
+[ 2025-02-19 16:13:47,766 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Feb/2025 16:13:47] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2025-02-19 16:15:15,485 ] 66 root - INFO - Dataframe Gathered
+[ 2025-02-19 16:15:15,486 ] 54 root - INFO - Exception Occured in load_object function utils
+[ 2025-02-19 16:15:15,486 ] 27 root - INFO - Exception occured in prediction
+[ 2025-02-19 16:15:15,517 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Feb/2025 16:15:15] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2025-02-19 16:15:15,558 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Feb/2025 16:15:15] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2025-02-19 16:15:15,563 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Feb/2025 16:15:15] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2025-02-19 16:15:15,620 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Feb/2025 16:15:15] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png&s=1hGTjYXEEjym6GfVTXXy HTTP/1.1[0m" 304 -
+[ 2025-02-19 16:15:15,635 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Feb/2025 16:15:15] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2025-02-19 16:17:52,170 ] 97 werkzeug - INFO -  * Detected change in 'e:\\diamondpriceprediction\\src\\pipelines\\prediction_pipeline.py', reloading
